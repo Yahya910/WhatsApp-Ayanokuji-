@@ -42,36 +42,36 @@
 </p>
 
 ```
-Asena; Asena UserBot, WhatsAsena yazılımı temsil eden adlardır, yazının devamında birbiri yerine kullanılabilir.
+أسينا ايانوكوجي هي الأسماء التي تمثل برنامج وبوت ايانوكوجي هي المكان الأول من المقال.
 
-WhatsAsena - Asena Userbot Açık Kaynaklı geliştirmeye açık bir yazılımdır. 
-Yanlış ve amacı dışında kullanımdan doğabilecek tüm sonuçlardan kullanıcı sorumludur. 
-Açık kaynaklı bir proje olduğundan isteyen herkes yazılımı kopyalayıp eklemeler çıkarmalar yapabilir,
-kendi özelleştirdiği biçimde kullanabilir. Ayrıca eklenti (plugin) desteği, 
-orijinal yazılıma kullanıcıların kendi yazdıkları eklentileri yükleyerek istedikleri 
-biçimde kullanmaları özelliğini sağlar.
-Kullanımı tamamen kullanıcının sorumluluğundadır.
-Botu amacı dışında kullanmak, açık bir şekilde yasaklanmanıza sebeb olur.
-Asena Userbot yalnızca bir altyapıdır. Nasıl sonradan yüklenen programlarla 
-yapılan işlerden işletim sistemi sorumlu değilse, 
-WhatsAsena da kullanıcıların kullanım amacı ve yönteminden sorumlu değildir.
-WhatsAsena'yı para karşılığı pazarlamak, kullanıma sunmak yahut herhangi bir maddi değere sahip
-birşey ile satışa sunmak kesinlikle yasaktır. Doğabilecek tüm yasal soruşturmalardan
-kullanıcı sorumludur.
+ايانوكوجي 001 -  هو برنامج مفتوح لتطوير مصدر مفتوح.
+المستخدم مسؤول عن كل النتائج التي قد تنشأ من الاستخدام باستثناء غير صحيح والغرض.
+كل من يريد الحصول على مشروع مفتوح المصدر يمكن أن يجعل برنامج النسخ وإضافة الإضافة،
+يمكن استخدامها كما مخصصة الخاصة بك. دعم إضافي إضافي إضافي أيضا،
+مستخدمو البرمجيات الأصلية من خلال تثبيت الوظائف الإضافية التي يكتبونها
+تمكنهم من استخدام التنسيق.
+الاستخدام بالكامل على مسؤولية المستخدم.
+باستخدام التمهيد من الغرض منه، يصبح من الواضح أنك محظور بوضوح.
+اسينا ليست سوى البنية التحتية. كيفية تحميل البرامج لاحقا
+إذا كان نظام التشغيل غير مسؤول عن العمل المنجز،
+اياونوكوجي هي أيضا ليست مسؤولة عن الغرض وطريقة المستخدمين.
+ايانوكوجي لتسويق الأموال مقابل المال، أو لديك أي قيمة مالية لتقديمها
+من المحمن بالتأكيد تقديمها للبيع. من جميع التحقيقات القانونية التي قد تنشأ
+المستخدم مسؤول.
 
-WhatsAsena - Asena Userbot is Open Source software open to development. 
-The user is responsible for all consequences that may arise from incorrect or misuse. 
-Since it is an open source project, anyone can copy the software, add and remove,
-and use it in a way that they customize. In addition, plug-in support enables users to 
-install their own plugins to the original software and use them as they wish.
-Using the bot out of purpose will explicitly ban you.
-Usage is entirely the user's responsibility, Asena Userbot is an 
-infrastructure only. Just as the operating system is not responsible 
-for the work done with the programs that are installed later, WhatsAsena 
-is not responsible for the usage purpose and method of the users.
-Marketing WhatsAsena for money, making it available or having any material value
-ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
-the user is responsible.
+ايانوكوجي -  هو برنامج مفتوح المصدر مفتوحا للتطوير.
+المستخدم مسؤول عن جميع العواقب التي قد تنشأ من غير صحيحة أو سوء الاستخدام.
+نظرا لأنه مشروع مفتوح المصدر، يمكن لأي شخص نسخ البرنامج وإضافة وإزالة
+واستخدامها بطريقة تخصيصها. بالإضافة إلى ذلك، دعم التوصيل يتيح للمستخدمين
+قم بتثبيت الإضافات الخاصة بهم إلى البرامج الأصلية واستخدامها كما يحلو لهم.
+باستخدام الروبوت خارج الغرض سينظرك صراحة.
+استخدام مسؤولية المستخدم، ايانوكوجي هي اللحظة
+البنية التحتية فقط. تماما كما أن نظام التشغيل ملاحظة مسؤولة
+للعمل المنجز مع البرامج المثبتة لاحقا، ايانوكوجي
+هي ملاحظة مسؤولة عن غرض الاستخدام وطريقة المستخدمين.
+تسويق Whatsasena مقابل المال، مما يجعلها متاحة أو وجود أي قيمة مادية
+ممنوع منعا باتا عرضها للبيع بأي شيء. جميع التحقيقات القانونية التي قد تنشأ
+المستخدم مسؤول.
 ```
 
 <div align="center">
@@ -103,26 +103,24 @@ the user is responsible.
   </a>
 </p>
 
-## 📢 Guide
-> [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport)
+## 📢 موجه
+> [مجموعة مساعدة.](https://t.me/AsenaSupport)
 
-> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
+## 🔎 ما هو واتساب ايانوكوجي?
+**ايانوكوجي، ** هو بوت مساعد WhatsApp كتبه [【👑dᥱᥲdᥣყ࿇OTAKU🔱悪】] (https://github.com/Yahya910) وتطويرها لا تسجيل الدخول إلى حسابك هو مكتوب على WhatsApp Web API.
 
-## 🔎 What is WhatsAsena?
-**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and Developed by [Phaticusthiccy](https://github.com/phaticusthiccy). Does not log into your account It is written on WhatsApp Web API.
-
-## ❓ Duplicated?
-**WhatsAsenaDuplicated** is the continue of **WhatsAsena**. We renewed repository about 5-6 months ago. So, **WhatsAsena** and **WhatsAsenaDuplicated** are the same.
+## ❓ نسخ?
+**نسخ البوت استعمل.jadibot 
 
 ## Setup
-### Very Simple Method
-`Soon as Possible...`
+### طريقة سهلة جدااااا
+`الطريقة...`
 
-### Simple Method 
+### الطريقة بسيييطة 
 
-[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+[![تشغيل على Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
+[![تطبيق](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
 
 > [WhatsAsena Wiki (Full Guide)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki) 
 
