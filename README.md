@@ -1,45 +1,10 @@
-## Thanks for Everything 
-### We will always remember you..
+## شكرا للجميع 
+### سأتذكركم دائما..
 
-- [Yusuf Usta](https://github.com/yusufusta)
-- [@fusufs](https://t.me/fusufs)
+- [ايانوكوجي](https://github.com/Yahya910)
+- [@انستا ] (https:// Instagram.com/_kopz__)
 
-<p align="center">
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/fork">
-    <img src="https://img.shields.io/github/forks/phaticusthiccy/WhatsAsenaDuplicated?label=Fork&style=social">
-    
-  </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/stargazers">
-    <img src="https://img.shields.io/github/stars/phaticusthiccy/WhatsAsenaDuplicated?style=social">
-  </a>
-</p>
-
-<p align="center">
-  <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
-    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Size&style=plastic">
-
-  </a>
-  <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
-    <img src="https://img.shields.io/codefactor/grade/github/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Code%20Quality&style=plastic">
-
-  </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Lisance&style=plastic">
-
-  </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated">
-    <img src="https://img.shields.io/github/languages/top/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Javascript&style=plastic">
-
-  </a>
-  <a href="https://github.com/phaticusthiccy">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Thiccy&color=purple&style=plastic">
-
-  </a>
-  <a href="https://t.me/AsenaSupport">
-    <img src="https://img.shields.io/badge/Telegram-Asena%20Support-purple&style=plastic">
-
-  </a>
-</p>
+  <h1>🐺 مهم </h1>
 
 ```
 أسينا ايانوكوجي هي الأسماء التي تمثل برنامج وبوت ايانوكوجي هي المكان الأول من المقال.
@@ -82,10 +47,10 @@
 .mp4 version available on local file
 -->
 
-  <h1>🐺 WhatsAsena</h1>
+  <h1>ايانوكوجي 🕷️</h1>
 </div>
 <p align="center">
-    WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
+    بوت ايانوكوجي - يجعل واتساب سهل وممتع في الاستخدام  . أيضا لمستخدم البوت أولا ل واتساب.
     <br>
         <a href="https://t.me/WHATSASENA">Telegram Channel</a> |
         <a href="https://t.me/AsenaSupport">Telegram Group</a> |      
@@ -137,107 +102,88 @@ $ node bot.js
 
 ##
 
-### ⚒️ Setup Wiki - Kurulum [Full Guide - Tam Anlatım]
-[![Setup - Kurulum](https://img.icons8.com/clouds/190/000000/settings.png)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
+### عمل  إعداد ويكي - كورولوم [الدليل الكامل]
+[![الإعداد - Kurulum](https://img.icons8.com/clouds/190/000000/settings.png)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
 
 ##
 
-## F.A.Q
-Answer a few frequently asked questions;
-### 💬 Can you read my messages?
-This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
+# أسئلة وأجوبة
+أجب عن بعض الأسئلة الشائعة;
+### هل يمكنك قراءة رسائلي?
+هذا المشروع مفتوح المصدر بحيث تكون جميع الرموز واضحة. لا أقل ولا أكثر ؛ يمكنك أن تبحث عما تريد. ** نحن على الاطلاق لم يكن لديك الوصول إلى حساباتك.**
 
-### 🔐 What about our security?
-If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
+###  ماذا عن أمننا?
+إذا كنت قلقا بشأن الأمان ، فيمكنك تثبيته على جهاز الكمبيوتر الخاص بك. إذا كنت تعتقد أن شخصا آخر قد استحوذ على بياناتك ، فما عليك سوى النقر على زر **واتساب> ثلاث نقاط> واتساب ويب> تسجيل الخروج** من جميع الجلسات.
 
-### 💵 Is it paid?
-**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
+### هل هو مدفوع?
+** بالطبع لا.** لن يحدث أبدا. ولكن يمكنك التبرع لنا. يمكنك الوصول إلي عبر [برقية]
 
-### 🌟 Is there enough features?
-Yes. WhatsAsena comes with more than 170 internal command. Which including unique packages, machine learning AIs, fastly tools etc.. Users can add new features their bots. Check our [telegram group](https://t.me/AsenaSupport) .
+### هل هناك ما يكفي من الميزات?
+نعم. واتساسينا يأتي مع أكثر من 170 القيادة الداخلية. والتي تشمل حزم فريدة من نوعها ، آلة التعلم إيس ، أدوات فاستلي الخ.. يمكن للمستخدمين إضافة ميزات جديدة السير الخاصة بهم. تحقق لدينا [مجموعة بر.
 
-### 🛡️ Cyber Attack Protection?
-Only original [WhatsAsena](https://github.com/phaticusthiccy/WhatsAsenaDuplicated) do this. It has own unique protection style inside WhatsAsena's database. It protect your phone from WhatApp attacks. Thats mean all fake creations carries a big risk for users privacy.
+### الحماية من الهجمات السيبرانية?
+الأصلي فقط [واتساسينا] افعل هذا. لديها أسلوب حماية فريدة من نوعها داخل قاعدة بيانات واتساسينا. انها تحمي هاتفك من هجمات واتاب. هذا يعني أن جميع الإبداعات المزيفة تنطوي على مخاطر كبيرة على خصوصية المستخدمين.
 
-### 🧠 What is Eva Neural AI?
-**Eva** is powered with neural networks, artificial brain cells and brain that can remember conversation. **Eva** developed by me for like a virtual assistants. __(Siri, Sam, Tesla etc..)__ 
-WhatsAsena has %5 data of **Eva** to interact with users. Our gan datas stored on Brainshop. If users want to access **Eva**, they must start message with `Eva`
+### العصبية منظمة العفو الدولية?
+** إيفا * * هو مدعوم مع الشبكات العصبية وخلايا الدماغ الاصطناعية والدماغ التي يمكن أن نتذكر المحادثة. ** إيفا * * التي وضعتها لي لمثل مساعدين الظاهري. __(سيري ، سام ، تسلا الخ..)__ 
+واتساسينا لديها ٪ 5 بيانات * * إيفا * * للتفاعل مع المستخدمين. لدينا دتس غان المخزنة على برينشوب. إذا كان المستخدمون يريدون الوصول * * إيفا * * ، يجب أن تبدأ رسالة مع`إيفا'
 
-### 🐺 What does Asena mean?
-[Asena](https://tr.wikipedia.org/wiki/Asena), comes from Turkish mythology. According to Turkish mythology, Asena is a she-wolf that plays an important role.
+### ماذا يعني ايانوكوجي?
+ايانوكوجي شخصية انمي شهيرة من انمي فصل النخبة
 
-<details>
-  <summary><h3>Other Questions ❔</h3></summary>
+< التفاصيل>
+  <ملخص> < ح3>أسئلة أخرى اسئلة < / ح3 > < / ملخص>
 
-### Data Traffic
-WhatsAsena encrypts all datas while sending messages, receiving messages, updates etc. There is no possible memory leaks.
+### حركة البيانات
+يقوم واتساسينا بتشفير جميع البيانات أثناء إرسال الرسائل واستقبال الرسائل والتحديثات وما إلى ذلك. لا يوجد تسرب محتمل للذاكرة.
 
-### Changing Branchs on Local Installation
-WhatsAsena uses always **master** branch. If users cloned other branches, they can't able to install it.
+### تغيير الفروع على التثبيت المحلي
+واتساسينا يستخدم دائما** ماستر * * فرع. إذا استنسخ المستخدمون فروعا أخرى ، فلن يتمكنوا من تثبيتها.
 
-### How Interp Command Works? 
-**.interp** command useful for interpolating low frame rate videos. This system, which is the first in the world, is also seen in WhatsAsena, the world's first UserBot. Basically it superimposes the previous frame and produces new frames to replace blank datas. By doing a simple calculation, If we use **.interp 60** to a 300 frame 10 second video, the output will be about 4000-6000 frame.
+### كيف يعمل القيادة إنتيرب? 
+**.إنتيرب * * أمر مفيد لاستكمال مقاطع الفيديو ذات معدل الإطارات المنخفض. هذا النظام ، وهو الأول في العالم ، وينظر أيضا في واتساسينا ، أول مستخدم في العالم. أساسا فإنه يطغى الإطار السابق وتنتج إطارات جديدة لتحل محل دتس فارغة. عن طريق القيام بعملية حسابية بسيطة ، إذا كنا نستخدم**.إنتيرب 60 * * إلى 300 إطار 10 ثانية الفيديو ، وسوف يكون الإخراج حوالي 4000-6000 الإطار.
 
-### My Bot is Very Slowly, What should I do?
-Firstly, you can check your ethernet connection. Your ping, packet loss and bandwidth. WhatsAsena uses phone's ethernet connection (Wi-Fi, Li-Fi, Mobile). So This is not about the WhatsAsena, it's about the device or the internet used.
+### بلدي بوت ببطء شديد, ماذا علي أن أفعل?
+أولا ، يمكنك التحقق من اتصال إيثرنت الخاص بك. بينغ الخاص بك ، وفقدان الحزمة وعرض النطاق الترددي. واتساسينا يستخدم اتصال إيثرنت الهاتف (واي فاي ، لي فاي ، موبايل). لذلك هذا ليس عن واتساسينا ، ولكن عن الجهاز أو الإنترنت المستخدمة.
 
-### Where Can I Find the Number of Users? 
-You can look at the values ​​written under our logo above. This value shows the current number of users.
+### أين يمكنني العثور على عدد من المستخدمين? 
+يمكنك إلقاء نظرة على القيم المكتوبة تحت شعارنا أعلاه. تعرض هذه القيمة العدد الحالي للمستخدمين.
 
-### Should I Trust Other Bots Like WhatsAsena?
-This choice is yours, There are a lot of fake bots using our codes. Can be dangerous as they are not official. Moreover, since there is no cyber attack protection in fake bots, the device can be easily accessed whenever any vulnerability is found.
+### يجب أن أثق السير الأخرى مثل واتساسينا?
+هذا الخيار لك ، وهناك الكثير من الروبوتات المزيفة التي تستخدم رموزنا. يمكن أن تكون خطيرة لأنها ليست رسمية. علاوة على ذلك ، نظرا لعدم وجود حماية من الهجمات الإلكترونية في برامج الروبوت المزيفة ، يمكن الوصول إلى الجهاز بسهولة عند العثور على أي ثغرة أمنية.
 
-### Why Are Updates Coming Late?
-Because I'm the only developer. I need to test every step. I need to check each branch and import it into unique npm package. And I have a social life too :)
+### لماذا تأتي التحديثات متأخرة?
+لأنني المطور الوحيد. أنا بحاجة لاختبار كل خطوة. ولست بحاجة للتحقق من كل فرع واستيراده إلى حزمة الآلية الوقائية الوطنية فريدة من نوعها. ولدي حياة اجتماعية أيضا :)
 
-### When Will Support Be Cut Off?
-When the WhatsAsena learns to solve all its problems by itself. My first goal is to provide this stuff.
+### متى سيتم قطع الدعم?
+عندما يتعلم الواتساسينا حل جميع مشاكله بنفسه. هدفي الأول هو توفير هذه الأشياء.
 
-</details>
+< / تفاصيل>
 
 ##
 
-### ⚠️ Warning! 
+###  تحذير! 
 ```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
+قد يتم حظر حساب واتس اب الخاص بك.
+هذا مشروع مفتوح المصدر ، أنت مسؤول عن كل ما تفعله. 
+بالتأكيد ، المديرين التنفيذيين اسينا لا تقبل المسؤولية.
+من خلال إنشاء أسينا ، تعتبر أنك قد قبلت هذه المسؤوليات.
 
-Your account may be banned for the following reasons:
-- Using .ban command for more than one user.
-- Using fake numbers.
-- Spamming Too Much (If someone complains)
+قد يتم حظر حسابك للأسباب التالية:
+- باستخدام .حظر الأمر لأكثر من مستخدم واحد.
+- استخدام أرقام وهمية.
+- إرسال رسائل غير مرغوب فيها كثيرا (إذا اشتكى شخص ما)
 ```
 
-## Developers
+## المطورون
 
-[![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://www.fusuf.codes) | [![Phaticusthiccy](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=80)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=80)](https://github.com/CW4RR10R)
-----|----|----|----|----
-[Yusuf Usta](https://t.me/fusufs) | [Phaticusthiccy](https://github.com/phaticusthiccy) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)
-Author, Base, Bug Fixes, Modules | Developer, Base, Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules, Idea | Modules
+[![ايانوكوجي](https://github.com/Yahya910.png?size=100)] 
 
-## Thanks To
-- [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
-- [@itacirgabral](https://github.com/itacirgabral) for helps
-- `Ikarus#7808 (Discord)` for helps
-- [@Unique_hunter](https://t.me/Unique_hunter) for helps and ideas
-- Translators
+## شكرا لي
+Me و كذا 
 
-## License
-This project is protected by `GNU General Public Licence v3.0` license.
 
-## Contributing
-Contributing to the WhatsAsena project, world first UserBot for WhatsApp. 
-Additions and innovations are allowed. Please contribute with these rules:
-- New Features 
-- Fixing Critical Bugs
-- New AI Systems
-- Innovations That Don't Break the Integrity
+### تحذير
 
-In addition to these rules; Unethical additions such as nudity, sexuality, insults, terrorism are not allowed.
-More than 130,000 uses worldwide, and this all-age project demands innovations to match ethnic rules.
-
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+ممنوع سرقة البوت
 
